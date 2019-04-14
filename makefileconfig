@@ -1,0 +1,17 @@
+nom_du_fichier_source;dépendance1;dépendance2;
+
+REP;nom_du_dossier_racine_du_projet
+
+SOURCES;sous_répertoire_où_se_trouvent_les_fichiers_sources
+
+HEADERS;sous_répertoire_où_se_trouvent_les_headers
+
+LIBS;sous_répertoire_où_se_trouvent_les_librairies
+
+EXEC;nom_de_l_exécutable
+
+COMP;nom_du_compilateur
+
+CFLAGS;flag_de_compilation1 flag_de_compilation2 ...
+
+LDFLAGS;flag_de_linkage1 flag_de_linkage2 .
